@@ -5,6 +5,8 @@
 grader: 'overlay'
 build:
   preset: 'none'
+gradedParts: []
+
 submissionFiles:
   files:
     # The default is to submit all java, arr, md, and python files.
