@@ -1,2 +1,2 @@
-# template-assignment-grader
-Template repository used to generate new grader repos in Pawtograder app
+# Pawtograder grading repo
+Edit this file to describe your assignment, for your own sanity.
